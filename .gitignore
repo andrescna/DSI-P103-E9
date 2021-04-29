@@ -3,5 +3,5 @@ node_modules
 *.swo
 package-lock.json
 nohup.out
-/dist
+dist
 /.nyc_output
